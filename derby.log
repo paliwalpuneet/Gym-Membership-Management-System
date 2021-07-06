@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Dec 17 19:57:57 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-7119-af4e-000002d7b6f0 
+on database directory memory:C:\Users\ppali\eclipse-workspace\GymMembershipManagement\00c64c32-c4ad-42eb-b8ad-d0cddc8c91af with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+Loaded from file:/C:/Users/ppali/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\ppali\eclipse-workspace\GymMembershipManagement
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Dec 17 19:58:08 IST 2020:
+Shutting down instance a816c00e-0176-7119-af4e-000002d7b6f0 on database directory memory:C:\Users\ppali\eclipse-workspace\GymMembershipManagement\00c64c32-c4ad-42eb-b8ad-d0cddc8c91af with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
